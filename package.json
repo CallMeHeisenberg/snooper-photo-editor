@@ -10,7 +10,7 @@
     },
     "scripts": {
         "lint": "./node_modules/.bin/eslint src/",
-        "test": "jest"
+        "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [
         "react-native"
